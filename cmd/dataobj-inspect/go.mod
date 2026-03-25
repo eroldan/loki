@@ -7,7 +7,7 @@ require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.19.0
 	github.com/grafana/loki/v3 v3.0.0-20260311215855-e22a9bed508b
-	github.com/prometheus/prometheus v0.310.1-0.20260324153338-9670de1c35d7
+	github.com/prometheus/prometheus v0.310.1-0.20260325165242-729cde895370
 )
 
 require (
